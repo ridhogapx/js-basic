@@ -1,0 +1,19 @@
+{
+  "name": "js-basic",
+  "version": "1.0.0",
+  "description": "Untuk keperluan belajar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RageNeko26/js-basic.git"
+  },
+  "author": "RageNeko26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RageNeko26/js-basic/issues"
+  },
+  "homepage": "https://github.com/RageNeko26/js-basic#readme"
+}
