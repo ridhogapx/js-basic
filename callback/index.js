@@ -49,3 +49,9 @@ tampilkan(function() {
 })
 
 
+// Assessment 
+// Buat 1 callback dan 1 closure 
+// - Callback terdiri 2 function, 1 sebagai callback 1 sebagai pemanggil.
+// - Closure teridiri 2 function, 1 sebagai callback 1 sebagai pemanggil. 
+// Branch: feat/study-case-callback
+//
