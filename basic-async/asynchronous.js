@@ -4,6 +4,9 @@ function f1() {
     }, 3000)
 }
 
+// setTimeout(callback | closure, waktu)
+// 1000 = 1 detik
+
 function f2() {
    setTimeout(function() {
     console.log("Panggil aku...")
