@@ -22,6 +22,7 @@ const kucing = {
     jumlahAnak: 3,
     bunyi: function() {
         console.log("Meow meow ~")
+        // Return sesuatu
     },
     bertarung() {
         return "GRAWRR!!!!"
