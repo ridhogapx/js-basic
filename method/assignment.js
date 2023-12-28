@@ -16,5 +16,18 @@ const tiger = {
 // Dengan ketentuan property object:
 // name, fur, food, voice(), 
 const eagle = {
-    // Lengkapilah kode di bawah ini.
+    // Kerjakan di sini.
+    // ...
+}
+
+// #3 Lengkapilah kode di bawah ini
+const uniqueNumber = {
+    n: [3, 7, 5, 15, 13, 2, 30, 27, 45],
+    // Buatlah method multipleOfFive() 
+    // Method ini me-return sebuah array dari property n 
+    // Hasil return berupa angka kelipatan 5.
+    multipleOfFive() {
+        // Kerjakan di sini
+        // ...
+    }
 }
