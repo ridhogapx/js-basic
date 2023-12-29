@@ -20,6 +20,8 @@ const kucing = {
     ras: "Anggora",
     mata: "Kebiru-biruan",
     jumlahAnak: 3,
+    // Key: Value
+    // Anonymous function
     bunyi: function() {
         console.log("Meow meow ~")
         // Return sesuatu
