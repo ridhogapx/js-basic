@@ -36,9 +36,6 @@ const uniqueNumber = {
             // Maka isi array kosong
             if(arr[i] % 5 === 0) {
                 this.result.push(arr[i])
-
-                // Alternatif lain
-                // result = n
             }
         }
 
